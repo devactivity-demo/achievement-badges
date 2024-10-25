@@ -1,6 +1,6 @@
 # devActivity Achievement Badges
 
-### You're welcome to share your ideas by opening an issue! 🎮 🏅
+You're welcome to share your ideas by **[opening an issue](https://github.com/devactivity-demo/achievement-badges/issues/new)**! 🎮 🏅
 
 ## **ONBOARDING CHALLENGES (ONE-TIME)**
 

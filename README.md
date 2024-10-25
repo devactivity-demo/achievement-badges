@@ -49,7 +49,7 @@
 
 | Badge | Title | Conditions to Earn | XP Reward |
 |---|---|---|---|
-| ![YEARS CLUB](year-club.png "YEARS CLUB") | YEARS CLUB | Achieve consecutive N years of active contribution | +9% of your total XP |
+| ![YEARS CLUB](years-club.png "YEARS CLUB") | YEARS CLUB | Achieve consecutive N years of active contribution | +9% of your total XP |
 | ![CONTRIBS CLUB](contribs-club.png "CONTRIBS CLUB") | CONTRIBS CLUB | Consistently make significant contributions over time | +3% of your total XP |
 | ![RECOGNITION AWARD CLUB](recognition-award-club.png "RECOGNITION AWARD CLUB") | RECOGNITION AWARD CLUB | Consistently earn Recognition Awards over time | +3% of your total XP | 
 

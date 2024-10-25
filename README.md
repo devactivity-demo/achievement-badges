@@ -2,6 +2,9 @@
 
 You're welcome to share your ideas by **[opening an issue](https://github.com/devactivity-demo/achievement-badges/issues/new)**! 🎮 🏅
 
+- [Install devActivity app](https://github.com/apps/devactivity-app) from GitHub Marketplace
+- [devAcivity Website](https://devactivity.com)
+
 ## **ONBOARDING CHALLENGES (ONE-TIME)**
 
 | Badge | Title | Conditions to Earn | XP Reward |

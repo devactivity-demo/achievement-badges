@@ -1,5 +1,7 @@
 # devActivity Achievement Badges
 
+### You're welcome to share your ideas by opening an issue! 🎮 🏅
+
 ## **ONBOARDING CHALLENGES (ONE-TIME)**
 
 | Badge | Title | Conditions to Earn | XP Reward |

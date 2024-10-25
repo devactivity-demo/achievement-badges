@@ -13,7 +13,7 @@
 | ![TROUBLE SHOOTER](trouble-shooter.png "TROUBLE SHOOTER") | TROUBLE SHOOTER | Resolve your first alert | +3 XP |
 | ![HIGH FIVE](high-five.png "HIGH FIVE") | HIGH FIVE | Assign your first Recognition Award | +3 XP |
 | ![AWESOME ALLY](awesome-ally.png "AWESOME ALLY") | AWESOME ALLY | Receive your first Recognition Award | +3 XP |
-| ![CAREER ADVISOR](trouble-shooter.png "CAREER ADVISOR") | CAREER ADVISOR | Create your first performance review | +10 XP |
+| ![CAREER ADVISOR](career-advisor.png "CAREER ADVISOR") | CAREER ADVISOR | Create your first performance review | +10 XP |
 
 
 ## **INDIVIDUAL CHALLENGES (MONTHLY)**
@@ -49,8 +49,8 @@
 
 | Badge | Title | Conditions to Earn | XP Reward |
 |---|---|---|---|
-| ![YEARS CLUB](trouble-shooter.png "YEARS CLUB") | YEARS CLUB | Achieve consecutive N years of active contribution | +9% of your total XP |
-| ![CONTRIBS CLUB](trouble-shooter.png "CONTRIBS CLUB") | CONTRIBS CLUB | Consistently make significant contributions over time | +3% of your total XP |
+| ![YEARS CLUB](year-club.png "YEARS CLUB") | YEARS CLUB | Achieve consecutive N years of active contribution | +9% of your total XP |
+| ![CONTRIBS CLUB](contribs-club.png "CONTRIBS CLUB") | CONTRIBS CLUB | Consistently make significant contributions over time | +3% of your total XP |
 | ![RECOGNITION AWARD CLUB](recognition-award-club.png "RECOGNITION AWARD CLUB") | RECOGNITION AWARD CLUB | Consistently earn Recognition Awards over time | +3% of your total XP | 
 
 **Note:** 

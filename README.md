@@ -11,7 +11,7 @@
 | ![CLOSER OF THE HOUR](closer-of-the-hour.png "CLOSER OF THE HOUR") | CLOSER OF THE HOUR | Close your first issue | +3 XP |
 | ![PANDORA BOX OPENED](pandora-box-opened.png "PANDORA BOX OPENED") | PANDORA BOX OPENED | Create your first issue | +3 XP |
 | ![TROUBLE SHOOTER](trouble-shooter.png "TROUBLE SHOOTER") | TROUBLE SHOOTER | Resolve your first alert | +3 XP |
-| ![HIGH FIVE](trouble-shooter.png "HIGH FIVE") | HIGH FIVE | Assign your first Recognition Award | +3 XP |
+| ![HIGH FIVE](high-five.png "HIGH FIVE") | HIGH FIVE | Assign your first Recognition Award | +3 XP |
 | ![AWESOME ALLY](awesome-ally.png "AWESOME ALLY") | AWESOME ALLY | Receive your first Recognition Award | +3 XP |
 | ![CAREER ADVISOR](trouble-shooter.png "CAREER ADVISOR") | CAREER ADVISOR | Create your first performance review | +10 XP |
 
@@ -20,22 +20,22 @@
 
 | Badge | Title | Conditions to Earn | XP Reward |
 |---|---|---|---|
-| ![CONTRIBUTION CHALLENGER](trouble-shooter.png "CONTRIBUTION CHALLENGER") | CONTRIBUTION CHALLENGER | Earn more than N XP in a month | +3% of your total XP |
-| ![COMMIT MORE](trouble-shooter.png "COMMIT MORE") | COMMIT MORE | Make more than N commits in a month | +3% of your total XP |
-| ![PULL REQUEST MORE](trouble-shooter.png "PULL REQUEST MORE") | PULL REQUEST MORE | Submit more than N pull requests in a month | +2% of your total XP |
-| ![CODE REVIEW MORE](trouble-shooter.png "CODE REVIEW MORE") | CODE REVIEW MORE | Complete more than N code reviews in a month | +3% of your total XP |
-| ![CYCLE CRUSHER](trouble-shooter.png "CYCLE CRUSHER") | CYCLE CRUSHER | Average pull request Cycle Time is below N hours | +3% of your total XP |
-| ![REVIEW ACCELERATOR](trouble-shooter.png "REVIEW ACCELERATOR") | REVIEW ACCELERATOR | Average pull request Review Time is below N hours | +3% of your total XP |
-| ![ERRORLESS](trouble-shooter.png "ERRORLESS") | ERRORLESS | Successfully merge N consecutive pull requests without any errors | +3% of your total XP |
-| ![ROCKSTAR](trouble-shooter.png "ROCKSTAR") | ROCKSTAR | Assign more than N Recognition Awards in a month | +3% of your total XP |
-| ![LIGHTNING](trouble-shooter.png "LIGHTNING") | LIGHTNING | Submit the fastest pull request | +3% of your total XP |
-| ![HOT POTATO](trouble-shooter.png "HOT POTATO") | HOT POTATO | Complete the fastest code review | +3% of your total XP |
-| ![SPEEDY SOLVER](trouble-shooter.png "SPEEDY SOLVER") | SPEEDY SOLVER | Close an issue in the fastest time | +3% of your total XP |
-| ![ARCHEOLOGIST](trouble-shooter.png "ARCHEOLOGIST") | ARCHEOLOGIST | Close the oldest outstanding issue | +2% of your total XP |
-| ![FIRE EXTINGUISHER](trouble-shooter.png "FIRE EXTINGUISHER") | FIRE EXTINGUISHER | Resolve the most alerts | +2% of your total XP |
-| ![ISSUE TERMINATOR](trouble-shooter.png "ISSUE TERMINATOR") | ISSUE TERMINATOR | Close the most issues | +2% of your total XP |
-| ![COMMENTS GURU](trouble-shooter.png "COMMENTS GURU") | COMMENTS GURU | Add the most comments to PRs and issues | +2% of your total XP |
-| ![THE BOUNTY HUNTER](trouble-shooter.png "THE BOUNTY HUNTER") | THE BOUNTY HUNTER | Close the most issues labeled as bugs | +2% of your total XP |
+| ![CONTRIBUTION CHALLENGER](contribution-challenger.png "CONTRIBUTION CHALLENGER") | CONTRIBUTION CHALLENGER | Earn more than N XP in a month | +3% of your total XP |
+| ![COMMIT MORE](commit-more.png "COMMIT MORE") | COMMIT MORE | Make more than N commits in a month | +3% of your total XP |
+| ![PULL REQUEST MORE](pull-request-more.png "PULL REQUEST MORE") | PULL REQUEST MORE | Submit more than N pull requests in a month | +2% of your total XP |
+| ![CODE REVIEW MORE](code-review-more.png "CODE REVIEW MORE") | CODE REVIEW MORE | Complete more than N code reviews in a month | +3% of your total XP |
+| ![CYCLE CRUSHER](cycle-crusher.png "CYCLE CRUSHER") | CYCLE CRUSHER | Average pull request Cycle Time is below N hours | +3% of your total XP |
+| ![REVIEW ACCELERATOR](review-accelerator.png "REVIEW ACCELERATOR") | REVIEW ACCELERATOR | Average pull request Review Time is below N hours | +3% of your total XP |
+| ![ERRORLESS](errorless.png "ERRORLESS") | ERRORLESS | Successfully merge N consecutive pull requests without any errors | +3% of your total XP |
+| ![ROCKSTAR](rockstar.png "ROCKSTAR") | ROCKSTAR | Assign more than N Recognition Awards in a month | +3% of your total XP |
+| ![LIGHTNING](lightning.png "LIGHTNING") | LIGHTNING | Submit the fastest pull request | +3% of your total XP |
+| ![HOT POTATO](hot-potato.png "HOT POTATO") | HOT POTATO | Complete the fastest code review | +3% of your total XP |
+| ![SPEEDY SOLVER](speedy-solver.png "SPEEDY SOLVER") | SPEEDY SOLVER | Close an issue in the fastest time | +3% of your total XP |
+| ![ARCHEOLOGIST](archeologist.png "ARCHEOLOGIST") | ARCHEOLOGIST | Close the oldest outstanding issue | +2% of your total XP |
+| ![FIRE EXTINGUISHER](fire-extinguisher.png "FIRE EXTINGUISHER") | FIRE EXTINGUISHER | Resolve the most alerts | +2% of your total XP |
+| ![ISSUE TERMINATOR](issue-terminator.png "ISSUE TERMINATOR") | ISSUE TERMINATOR | Close the most issues | +2% of your total XP |
+| ![COMMENTS GURU](comments-guru.png "COMMENTS GURU") | COMMENTS GURU | Add the most comments to PRs and issues | +2% of your total XP |
+| ![THE BOUNTY HUNTER](the-bounty-hunter.png "THE BOUNTY HUNTER") | THE BOUNTY HUNTER | Close the most issues labeled as bugs | +2% of your total XP |
 
 ## **TEAM CHALLENGES (MONTHLY)**
 

@@ -20,38 +20,38 @@
 
 | Badge | Title | Conditions to Earn | XP Reward |
 |---|---|---|---|
-| ![TROUBLE](trouble-shooter.png "SHOOTER") | CONTRIBUTION CHALLENGER | Earn more than N XP in a month | +3% of your total XP |
-| ![TROUBLE](trouble-shooter.png "SHOOTER") | COMMIT MORE | Make more than N commits in a month | +3% of your total XP |
-| ![TROUBLE](trouble-shooter.png "SHOOTER") | PULL REQUEST MORE | Submit more than N pull requests in a month | +2% of your total XP |
-| ![TROUBLE](trouble-shooter.png "SHOOTER") | CODE REVIEW MORE | Complete more than N code reviews in a month | +3% of your total XP |
-| ![TROUBLE](trouble-shooter.png "SHOOTER") | CYCLE CRUSHER | Average pull request Cycle Time is below N hours | +3% of your total XP |
-| ![TROUBLE](trouble-shooter.png "SHOOTER") | REVIEW ACCELERATOR | Average pull request Review Time is below N hours | +3% of your total XP |
-| ![TROUBLE](trouble-shooter.png "SHOOTER") | ERRORLESS | Successfully merge N consecutive pull requests without any errors | +3% of your total XP |
-| ![TROUBLE](trouble-shooter.png "SHOOTER") | ROCKSTAR | Assign more than N Recognition Awards in a month | +3% of your total XP |
-| ![TROUBLE](trouble-shooter.png "SHOOTER") | LIGHTNING | Submit the fastest pull request | +3% of your total XP |
-| ![TROUBLE](trouble-shooter.png "SHOOTER") | HOT POTATO | Complete the fastest code review | +3% of your total XP |
-| ![TROUBLE](trouble-shooter.png "SHOOTER") | SPEEDY SOLVER | Close an issue in the fastest time | +3% of your total XP |
-| ![TROUBLE](trouble-shooter.png "SHOOTER") | ARCHEOLOGIST | Close the oldest outstanding issue | +2% of your total XP |
-| ![TROUBLE](trouble-shooter.png "SHOOTER") | FIRE EXTINGUISHER | Resolve the most alerts | +2% of your total XP |
-| ![TROUBLE](trouble-shooter.png "SHOOTER") | ISSUE TERMINATOR | Close the most issues | +2% of your total XP |
-| ![TROUBLE](trouble-shooter.png "SHOOTER") | COMMENTS GURU | Add the most comments to PRs and issues | +2% of your total XP |
-| ![TROUBLE](trouble-shooter.png "SHOOTER") | THE BOUNTY HUNTER | Close the most issues labeled as bugs | +2% of your total XP |
+| ![CONTRIBUTION CHALLENGER](trouble-shooter.png "CONTRIBUTION CHALLENGER") | CONTRIBUTION CHALLENGER | Earn more than N XP in a month | +3% of your total XP |
+| ![COMMIT MORE](trouble-shooter.png "COMMIT MORE") | COMMIT MORE | Make more than N commits in a month | +3% of your total XP |
+| ![PULL REQUEST MORE](trouble-shooter.png "PULL REQUEST MORE") | PULL REQUEST MORE | Submit more than N pull requests in a month | +2% of your total XP |
+| ![CODE REVIEW MORE](trouble-shooter.png "CODE REVIEW MORE") | CODE REVIEW MORE | Complete more than N code reviews in a month | +3% of your total XP |
+| ![CYCLE CRUSHER](trouble-shooter.png "CYCLE CRUSHER") | CYCLE CRUSHER | Average pull request Cycle Time is below N hours | +3% of your total XP |
+| ![REVIEW ACCELERATOR](trouble-shooter.png "REVIEW ACCELERATOR") | REVIEW ACCELERATOR | Average pull request Review Time is below N hours | +3% of your total XP |
+| ![ERRORLESS](trouble-shooter.png "ERRORLESS") | ERRORLESS | Successfully merge N consecutive pull requests without any errors | +3% of your total XP |
+| ![ROCKSTAR](trouble-shooter.png "ROCKSTAR") | ROCKSTAR | Assign more than N Recognition Awards in a month | +3% of your total XP |
+| ![LIGHTNING](trouble-shooter.png "LIGHTNING") | LIGHTNING | Submit the fastest pull request | +3% of your total XP |
+| ![HOT POTATO](trouble-shooter.png "HOT POTATO") | HOT POTATO | Complete the fastest code review | +3% of your total XP |
+| ![SPEEDY SOLVER](trouble-shooter.png "SPEEDY SOLVER") | SPEEDY SOLVER | Close an issue in the fastest time | +3% of your total XP |
+| ![ARCHEOLOGIST](trouble-shooter.png "ARCHEOLOGIST") | ARCHEOLOGIST | Close the oldest outstanding issue | +2% of your total XP |
+| ![FIRE EXTINGUISHER](trouble-shooter.png "FIRE EXTINGUISHER") | FIRE EXTINGUISHER | Resolve the most alerts | +2% of your total XP |
+| ![ISSUE TERMINATOR](trouble-shooter.png "ISSUE TERMINATOR") | ISSUE TERMINATOR | Close the most issues | +2% of your total XP |
+| ![COMMENTS GURU](trouble-shooter.png "COMMENTS GURU") | COMMENTS GURU | Add the most comments to PRs and issues | +2% of your total XP |
+| ![THE BOUNTY HUNTER](trouble-shooter.png "THE BOUNTY HUNTER") | THE BOUNTY HUNTER | Close the most issues labeled as bugs | +2% of your total XP |
 
 ## **TEAM CHALLENGES (MONTHLY)**
 
 | Badge | Title | Conditions to Earn | XP Reward |
 |---|---|---|---|
-| ![TROUBLE](trouble-shooter.png "SHOOTER") | TEAM CONTRIBUTION | Team's total XP is above N | +3% of your total XP |
-| ![TROUBLE](trouble-shooter.png "SHOOTER") | TEAM PULL REQUEST MORE | Team submits more than N PRs in a month | +2% of your total XP |
-| ![TROUBLE](trouble-shooter.png "SHOOTER") | CYCLE SLASHERS | Team's average pull request Cycle Time is below N hours | +3% of your total XP |
+| ![TEAM CONTRIBUTION](team-contribution.png "TEAM CONTRIBUTION") | TEAM CONTRIBUTION | Team's total XP is above N | +3% of your total XP |
+| ![TEAM PULL REQUEST MORE](team-pull-request-more.png "TEAM PULL REQUEST MORE") | TEAM PULL REQUEST MORE | Team submits more than N PRs in a month | +2% of your total XP |
+| ![CYCLE SLASHERS](cycle-slasher.png "CYCLE SLASHERS") | CYCLE SLASHERS | Team's average pull request Cycle Time is below N hours | +3% of your total XP |
 
 ## **ACCUMULATIVE CHALLENGES**
 
 | Badge | Title | Conditions to Earn | XP Reward |
 |---|---|---|---|
-| ![TROUBLE](trouble-shooter.png "SHOOTER") | YEARS CLUB | Achieve consecutive N years of active contribution | +9% of your total XP |
+| ![YEARS CLUB](trouble-shooter.png "YEARS CLUB") | YEARS CLUB | Achieve consecutive N years of active contribution | +9% of your total XP |
 | ![CONTRIBS CLUB](trouble-shooter.png "CONTRIBS CLUB") | CONTRIBS CLUB | Consistently make significant contributions over time | +3% of your total XP |
-|  | RECOGNITION AWARD CLUB | Consistently earn Recognition Awards over time | +3% of your total XP | 
+| ![RECOGNITION AWARD CLUB](recognition-award-club.png "RECOGNITION AWARD CLUB") | RECOGNITION AWARD CLUB | Consistently earn Recognition Awards over time | +3% of your total XP | 
 
 **Note:** 
 - XP Rewards are a percentage of your total monthly earned XP. 

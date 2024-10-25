@@ -4,16 +4,16 @@
 
 | Badge | Title | Conditions to Earn | XP Reward |
 |---|---|---|---|
-|  | HELLO WORLD! | Add your first commit | +3 XP |
-|  | PULL REQUEST PRODIGY | Push your first pull request | +3 XP |
-|  | CAPTAIN CODE | Complete your first code review | +3 XP |
-|  | ROGER THAT! | Add your first comment on a PR or issue | +3 XP |
-|  | CLOSER OF THE HOUR | Close your first issue | +3 XP |
-|  | PANDORA BOX OPENED | Create your first issue | +3 XP |
-|  | TROUBLE SHOOTER | Resolve your first alert | +3 XP |
-|  | HIGH FIVE | Assign your first Recognition Award | +3 XP |
-|  | AWESOME ALLY | Receive your first Recognition Award | +3 XP |
-|  | CAREER ADVISOR | Create your first performance review | +10 XP |
+| ![HELLO WORLD!](hello-world.png "HELLO WORLD!") | HELLO WORLD! | Add your first commit | +3 XP |
+| ![PULL REQUEST PRODIGY](pull-request-prodigy.png "PULL REQUEST PRODIGY") | PULL REQUEST PRODIGY | Push your first pull request | +3 XP |
+| ![CAPTAIN CODE](captain-code.png "CAPTAIN CODE") | CAPTAIN CODE | Complete your first code review | +3 XP |
+| ![ROGER THAT!](roger-that.png "ROGER THAT!") | ROGER THAT! | Add your first comment on a PR or issue | +3 XP |
+| ![CLOSER OF THE HOUR](closer-of-the-hour.png "CLOSER OF THE HOUR") | CLOSER OF THE HOUR | Close your first issue | +3 XP |
+| ![PANDORA BOX OPENED](pandora-box-opened.png "PANDORA BOX OPENED") | PANDORA BOX OPENED | Create your first issue | +3 XP |
+| ![TROUBLE SHOOTER](trouble-shooter.png "TROUBLE SHOOTER") | TROUBLE SHOOTER | Resolve your first alert | +3 XP |
+| ![HIGH FIVE](trouble-shooter.png "HIGH FIVE") | HIGH FIVE | Assign your first Recognition Award | +3 XP |
+| ![AWESOME ALLY](awesome-ally.png "AWESOME ALLY") | AWESOME ALLY | Receive your first Recognition Award | +3 XP |
+| ![CAREER ADVISOR](trouble-shooter.png "CAREER ADVISOR") | CAREER ADVISOR | Create your first performance review | +10 XP |
 
 
 ## **INDIVIDUAL CHALLENGES (MONTHLY)**
